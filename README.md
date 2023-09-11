@@ -885,6 +885,7 @@ These tools are useful when sharing secrets, code snippets or any other kind of 
 
 <img width="16" src="misc/check.png"> </img>  **Instead use**
 - [Monero](https://www.getmonero.org/) - Monero is cash for a connected world. It's fast, private, untraceable and secure.
+- [Pivx Shield](https://www.pivx.org/) - Proof-of-Stake coin, with SHIELD transactions, gives users private, anonymous, nearly instant payments. 
 - Cash - Use person-to-person payments using physical notes and coins.
 
 **USE WITH CAUTION**
@@ -909,6 +910,7 @@ These tools are useful when sharing secrets, code snippets or any other kind of 
 
 <img width="16" src="misc/check.png"> </img> Instead use Rotki, an awesome, feature-rich and open source app:
 - [Rotki](https://github.com/rotki/rotki) - An awesome portfolio tracking, analytics, accounting and tax reporting application that protects your privacy.
+- [pivx2bitcoin](https://pivx2bitcoin.com) - Awesome private crypto swap. No accounts, no signups, no JavaScript, no tracking, no analytics. Tor and VPN friendly, too.
 
 ## Photo Editing and Management
 <img width="16" src="misc/forbidden.png"> </img> **Avoid**
